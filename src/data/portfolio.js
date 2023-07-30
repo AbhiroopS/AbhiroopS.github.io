@@ -15,6 +15,6 @@ export default [
         title: 'Portfolio Website',
         imgUrl: '',
         stack: ['React.js', 'Tailwind CSS', 'HTML', 'JavaScript'],
-        link: 'https://AbhiroopS.github.io',
+        link: 'https://github.com/AbhiroopS/AbhiroopS.github.io',
     },
 ]
