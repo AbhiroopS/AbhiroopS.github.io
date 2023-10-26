@@ -3,7 +3,7 @@ import resume from '../assets/Resume.pdf'
 function Resume(){
     return (
         <div className='flex items-center justify-center'>
-            <a href={resume} download="Abhiroop Shome - Resume">
+            <a href={resume} download="Abhiroop_Shome_Resume.pdf">
             <button className="flex flex-row gap-3 border-stone-600 border-2 rounded-xl py-3 px-3 mb-6 dark:border-white">
                 Download Resume
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
