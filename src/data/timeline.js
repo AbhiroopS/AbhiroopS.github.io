@@ -2,7 +2,7 @@ export default [
     {
         year: '2024',
         title: 'Python Developer Intern @ techolution',
-        duration: 'March 2024 - Present',
+        duration: 'March 2024 - September 2024',
         details: "Implementing robust APIs facilitating efficient extraction and parsing of data for expedited training of AI models. Working on comprehensive refactoring projects' backend codebase. Conducting comprehensive testing and debugging codebase, identifying and resolving critical issues to ensure adherence to industry standards and seamless project execution."
     },
     {
