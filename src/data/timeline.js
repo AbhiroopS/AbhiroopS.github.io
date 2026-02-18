@@ -1,5 +1,11 @@
 export default [
     {
+        year: 'Present',
+        title: 'MLOps Engineer @ DMI Finance',
+        duration: 'September 2024 - Present',
+        details: "Designing and implementing scalable MLOps pipelines for efficient deployment and monitoring of machine learning models. Collaborating with cross-functional teams to optimize model performance and ensure seamless integration into production environments. Utilizing tools such as Docker, Cloud Run, AWS Lambda and CI/CD frameworks to automate workflows and enhance the reliability of ML solutions."
+    },
+    {
         year: '2024',
         title: 'Python Developer Intern @ techolution',
         duration: 'March 2024 - September 2024',
